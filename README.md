@@ -8,8 +8,8 @@ This is a work-in-progress full-stack web app aimed at helping you keep track of
 
 - **Shopping aid**: Never forget what you have at home while shopping, making shopping trips more efficient and preventing duplicate or missed purchases.
 
-- **Consumption rate based predictive shopping lists**:
-  Over time, the app learns your consumption patterns and can predict when items will run out. Set your shopping frequency, and the app will generate shopping lists based on your choice of essential items to ensure you never run out of necessities.
+- **Predictive shopping lists**:
+  Over time, the app learns your consumption patterns and can predict when items will run out. Set your shopping frequency, and the app will generate shopping lists of your choice of essential items based on your consumption rate, in order to ensure you never run out of necessities.
 
 - **Categorisation and labelling**: Efficiently organise items with extensive categorisation and labelling options. Avoid duplicate purchases by recognising similar items (e.g., different brands of ketchup).
 
