@@ -1,6 +1,6 @@
 # Household Inventory Manager
 
-This is a work-in-progress full-stack web app aimed at helping you keep track of your household consumable items efficiently. From groceries to toiletries, this app will simplify inventory management and shopping.
+This is a work-in-progress web app aimed at helping you keep track of your household consumable items efficiently. From groceries to toiletries, this app will simplify inventory management and shopping.
 
 ## Features:
 
