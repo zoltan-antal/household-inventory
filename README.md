@@ -6,6 +6,8 @@ This is a work-in-progress web app aimed at helping you keep track of your house
 
 - **Inventory management**: Keep track of your household consumables such as food and toiletries. Update quantities by scanning barcodes or manually adding/removing items.
 
+- **Expiry date tracking**: When adding perishable items, you can input their expiry date. The app then offers an option to display your inventory sorted by expiry date, helping to use items up before they go off and prevent waste.
+
 - **Shopping aid**: Never forget what you have at home while shopping, making shopping trips more efficient and preventing duplicate or missed purchases.
 
 - **Predictive shopping lists**:
